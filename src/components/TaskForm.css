@@ -21,7 +21,7 @@
   width: 100%;
 }
 
-.task_input :: :placeholder {
+.task_input ::placeholder {
   color: #686868;
 }
 
